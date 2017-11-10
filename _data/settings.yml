@@ -1,0 +1,26 @@
+title:  Afnan Ahmad
+tagline:
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: true
+  disqus_shortname: 'https-afnanahmad-github-io'
+
+google-ID: 'UA-109491985-1'
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Writing', path: 'menu', url: 'writing.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
+
+social:
+- {icon: 'map-marker', link: 'https://www.google.ca/maps/place/Toronto'}
+- {icon: 'github', link: 'https://www.github.com/afnanahmad'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/afnanahmad/'}
+- {icon: 'stack-overflow', link: 'https://stackoverflow.com/users/1531669/afnan'}
+- {icon: 'envelope', link: 'mailto:afnanahmad@live.com'}
+- {icon: 'rss-square', link: 'https://afnanahmad.com/feed.xml'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
