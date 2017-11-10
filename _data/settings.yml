@@ -18,7 +18,7 @@ menu:
 social:
 - {icon: 'map-marker', link: 'https://www.google.ca/maps/place/Toronto'}
 - {icon: 'github', link: 'https://www.github.com/afnanahmad'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/afnanahmad/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/afnanahmad/'}
 - {icon: 'stack-overflow', link: 'https://stackoverflow.com/users/1531669/afnan'}
 - {icon: 'envelope', link: 'mailto:afnanahmad@live.com'}
 - {icon: 'rss-square', link: 'https://afnanahmad.com/feed.xml'}
